@@ -26,10 +26,13 @@ section input {
   outline: 0;
   box-sizing: border-box;
   top: 220px;
+
   background: url(../../../assets/imagens/logo-google.png);
+  background-attachment: initial;
   background-repeat: no-repeat;
   background-position-y: center;
   background-position-x: 4.08%;
+
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -37,6 +40,8 @@ section input {
   line-height: 24px;
   padding-left: 20px;
 }
+
+
 
 section p {
   font-family: 'Poppins';
